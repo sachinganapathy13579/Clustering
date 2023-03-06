@@ -19,6 +19,6 @@
       * Award? : Dummy variable for Last_award (1=not null, 0=null)
       
       
-## 2) The task is to identify the cities which are safer for people to live.We used clustering to divide the cities based on its threat level like Rape,Assualt,Murder.  
+## 2) The task is to identify the cities which are safer for people to live.We used clustering to divide the cities based on its threat level like Rape,Assault,Murder.  
  
  
