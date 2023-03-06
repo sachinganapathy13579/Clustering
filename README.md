@@ -1,10 +1,8 @@
 # Clustering
 
-## 1) East-West Airlines is trying to learn more about its customers.  
-      Key issues are their flying patterns, earning and use of frequent flyer rewards, and use of the airline credit card.  
-      The task is to identify customer segments via clustering.				
+## 1) East-West Airlines is trying to learn more about its customers.Key issues are their flying patterns, earning and use of frequent flyer rewards, and use of the     airline credit card.The task is to identify customer segments via clustering.				
 				
-			Source: Based upon real business data; company names have been changed.				
+      Source: Based upon real business data; company names have been changed.				
 			
 
       * ID# : Unique ID
@@ -21,7 +19,6 @@
       * Award? : Dummy variable for Last_award (1=not null, 0=null)
       
       
-## 2) The task is to identify the cities which are safer for people to live. 
-      We used clustering to divide the cities based on its threat level like Rape,Assualt,Murder.  
+## 2) The task is to identify the cities which are safer for people to live.We used clustering to divide the cities based on its threat level like Rape,Assualt,Murder.  
  
  
